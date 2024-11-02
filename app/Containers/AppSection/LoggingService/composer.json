@@ -1,0 +1,7 @@
+{
+    "name": "apiato/loggingservice",
+    "description": "LoggingService Container for PaymentService.",
+    "require": {
+        "rap2hpoutre/laravel-log-viewer": "^2.3"
+    }
+}

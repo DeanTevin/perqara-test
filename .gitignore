@@ -1,0 +1,67 @@
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+
+# apiato specific
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+.env.testing
+/storage/logs/*.log
+storage/framework/cache/*
+storage/framework/views/*
+storage/framework/sessions/
+/public/uploads/
+/laradock*/
+_ide_helper*.php
+.phpstorm.meta.php
+/.vagrant
+html_coverage
+Vagrantfile
+after.sh
+aliases
+.php-cs-fixer.cache
+/psalm_cache/
+/app/Containers/Vendor
+/public/vendor
+.bash_aliases
+
+# developer specific
+_ide_helper.php
+_ide_helper_models.php
+
+# developer specific docs
+phpdoc.xml
+phpDocumentor.phar
+/docs/
