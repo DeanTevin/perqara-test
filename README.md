@@ -60,7 +60,7 @@ DB_PASSWORD=
 
 ```
 
-- Generate APP KEY (you don't need to do this if already using the .env that I send through email)
+- Generate APP KEY
 
 ```shell
 
