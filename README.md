@@ -164,6 +164,10 @@ PASSWORD: admin
 > [!NOTE] 
 > locale field in request header with value: vi or zh_CN (Vietnam and Chinese validation message) see postman documentation for Update and Register User for more info.
 
+## POSTMAN
+> [!TIP]
+> The postman documentation is inside the postman folder in this project
+
 ## More Information
 
 Feel free to contact me (Tevin Dean Ramadhan): deantevinn.work@gmail.com if you having trouble installing the files.
